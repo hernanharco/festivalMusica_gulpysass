@@ -1,0 +1,7 @@
+//forma anterior del como se importa archivos
+// @import 'bas/variable';
+// @import 'contenido/contenido';
+
+@use 'bas';
+@use 'layout';
+
